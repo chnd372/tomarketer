@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7576868307%2C%22first_name%22%3A%22Zx%22%2C%22last_name%22%3A%2253%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=6563530477454655820&chat_type=supergroup&start_param=r-0002kSjP&auth_date=1728781131&hash=7eacecb34a1e37e1e56e60d48e5dd4a9f9fdddd6f5aea43d9fd50f147d58aae0
