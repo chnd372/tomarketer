@@ -341,7 +341,7 @@ class Tomarket:
                         response.raise_for_status()
                         game_play = await response.json()
                         if game_play['status'] == 0:
-                            await asyncio.sleep(random.randint(33, 35))
+                            await asyncio.sleep(random.randint(50, 60))
                             await self.game_claim(token=token, points=random.randint(400, 500))
                         elif game_play['status'] == 500 and game_play['message'] == 'no chance':
                             return self.print_timestamp(f"{Fore.RED + Style.BRIGHT}[ No Chance To Start Game ]{Style.RESET_ALL}")
